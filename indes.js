@@ -1,1 +1,1 @@
-console.log("Help!")
+console.log(Math.floor(Math.random() * 100))
